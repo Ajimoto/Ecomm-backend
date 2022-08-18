@@ -2,7 +2,7 @@
 
 ## Description
 
-APP VIDEO: [link](https://drive.google.com/file/d/1GafK4ji-7Qai_J7CywByZRKJHKcYMmYN/view)
+APP VIDEO: [link](https://drive.google.com/file/d/1UAFMrcnc1nELv8c8U7IapC1gy47Q_nqC/view)
 PROJECT REPO: [link](https://github.com/Ajimoto/Ecomm-backend)
 
 This application is a simple example of a blog style website where users can create an account and post/view information from other users.
